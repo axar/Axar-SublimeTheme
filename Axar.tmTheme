@@ -615,6 +615,73 @@
 				<string>#FF000050</string>
 			</dict>
 		</dict>
+		<dict>
+            <key>name</key>
+            <string>Bracket Curly</string>
+            <key>scope</key>
+            <string>brackethighlighter.curly</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FF000050</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Bracket Round</string>
+            <key>scope</key>
+            <string>brackethighlighter.round</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FF000050</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Bracket Square</string>
+            <key>scope</key>
+            <string>brackethighlighter.square</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FF000050</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Bracket angle</string>
+            <key>scope</key>
+            <string>brackethighlighter.angle</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FF000050</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Bracket tag</string>
+            <key>scope</key>
+            <string>brackethighlighter.tag</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FF000050</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Bracket single_quote</string>
+            <key>scope</key>
+            <string>brackethighlighter.quote</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FF000050</string>
+            </dict>
+        </dict>
+
 	</array>
 	<key>uuid</key>
 	<string>AEB6F160-B257-11E2-9E96-0800200C9A66</string>
